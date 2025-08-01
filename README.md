@@ -1,7 +1,5 @@
 # nieleba
-My public profile
-
-# 👋 Hola, soy Estefanía Lezama 
+# 👋 Hola, soy Estefania Lezama 
 
 🌱 Soy una gestora de proyectos ambientales en transición hacia el análisis de datos.  
 🔍 Disfruto explorar, analizar y visualizar datos para descubrir ideas clave y apoyar decisiones basadas en evidencia.  
@@ -24,5 +22,5 @@ My public profile
 - Fundamentos de ingeniería de datos y creación de pipelines  
 
 ### 🤝 Conectemos
-- 📧 estefania.lbarquet@gmail.com  
+- 📧 estefania.lezama@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/estefanialezama)  
